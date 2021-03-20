@@ -22,7 +22,13 @@
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   
-
+## 🏆&nbsp;My Contributions
+<p align="center">
+<a href="https://github.com/Nirav-Madhani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirav-Madhani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nirav-Madhani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Where to Find ME?
