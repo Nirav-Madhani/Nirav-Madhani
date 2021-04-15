@@ -39,3 +39,6 @@
 <a href="mailto:niravmadhani3@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 Older Profile : Nirav 1221
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-194674913-1/my-profile)](https://github.com/Nirav-Madhani)
