@@ -22,7 +22,10 @@
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   
-## 🏆&nbsp;My Contributions
+## 🏆&nbsp;My Stats
+
+![](https://komarev.com/ghpvc/?username=Nirav-Madhani&color=orange&style=flat-square)
+
 <p align="center">
 <a href="https://github.com/Nirav-Madhani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirav-Madhani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
@@ -31,13 +34,18 @@
 </p>
 
 
+
+
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Where to Find ME?
 
 <p align="center">
 <a href="https://niravmadhani3.blogspot.com"><img src="https://img.shields.io/badge/-https://niravmadhani3.blogspot.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nrmadhani/"><img src="https://img.shields.io/badge/-Nirav Madhani-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:niravmadhani3@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  
+
+
+
+
 Older Profile : Nirav 1221
 
 
