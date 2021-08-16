@@ -1,4 +1,4 @@
-## Hello [![eyes-1.gif](https://s4.gifyu.com/images/eyes-1.gif)](https://gifyu.com/image/ZOeV) I'm Nirav.
+## Hello, I'm Nirav.
 
 ### [![penguin.gif](https://s4.gifyu.com/images/penguin.gif)](https://gifyu.com/image/Zy2O) About Me 
 
