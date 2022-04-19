@@ -39,7 +39,7 @@
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Where to Find ME?
 
 <p align="center">
-<a href="https://niravmadhani3.blogspot.com"><img src="https://img.shields.io/badge/-https://niravmadhani3.blogspot.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://nirav-madhani.netlify.app"><img src="https://img.shields.io/badge/-https://nirav-madhani.netlify.app/-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nrmadhani/"><img src="https://img.shields.io/badge/-Nirav Madhani-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:niravmadhani3@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
