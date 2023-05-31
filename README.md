@@ -2,10 +2,10 @@
 
 ### [![penguin.gif](https://s4.gifyu.com/images/penguin.gif)](https://gifyu.com/image/Zy2O) About Me 
 
-- 🔥&nbsp;I'm a passionate unity3d developer, Competitive Programmer and a Web Developer from India. 
+- 🔥&nbsp;I'm a passionate ML Engineer, Unity3D Developer, Web Developer. 
 - 💞️&nbsp;I like to build physics simulation, eccentric games, and work with AR & VR
 - 😉&nbsp;Always looking to connect, collaborate and learn.
-- 🎓&nbsp;CSE Student at Nirma University.
+- 🎓&nbsp;CSE Graduate From Nirma University.
 
 
 ### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
