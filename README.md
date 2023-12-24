@@ -1,52 +1,96 @@
-## Hello, I'm Nirav.
+<h2 align="left">Hi 👋! My name is Nirav and I'm an ML Engineer</h2>
 
-### [![penguin.gif](https://s4.gifyu.com/images/penguin.gif)](https://gifyu.com/image/Zy2O) About Me 
+###
 
-- 🔥&nbsp;I'm a passionate ML Engineer, Unity3D Developer, Web Developer. 
-- 💞️&nbsp;I like to build physics simulation, eccentric games, and work with AR & VR
-- 😉&nbsp;Always looking to connect, collaborate and learn.
-- 🎓&nbsp;CSE Graduate From Nirma University.
+<h3 align="left">What I Do</h3>
 
+###
 
-### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
+<p align="left">- I work as application developer at bank software company, where I handle Cloud Infrastructure and oversee application architecture<br><br>When I am not working at company:-<br>1. I do ML research or make applications based on existing ML models<br>2. I program my Robot to do cool things.<br>3. I do interesting astronomy projects.<br>4. I develop cool games.</p>
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
--  
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
--
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+###
 
+<div align="center">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
+</div>
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  
-## 🏆&nbsp;My Stats
+###
 
-![](https://komarev.com/ghpvc/?username=Nirav-Madhani&color=orange&style=flat-square)
+<h3 align="left">My Achievements</h3>
 
-<p align="center">
-<a href="https://github.com/Nirav-Madhani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirav-Madhani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nirav-Madhani&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+###
 
+<p align="left">•	Received Letter of Appreciation from Director of University for work performed on hyperspectral image super-resolution during my internship at SAC – ISRO<br>•	Contributor of Open-Source Poliastro project, underlying library used by Satellite Constellation Remote sensing at NASA<br>•	1st Price winner for one of the subcategories at Hack DFW 2022 hackathon and top 7 in overall<br>•	Co-Author of Paper on Industry 5.0, with 25 citations<br>•	Top 8.83% in LeetCode</p>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/nrmadhani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Where to Find ME?
+###
 
-<p align="center">
-<a href="https://nirav-madhani.netlify.app"><img src="https://img.shields.io/badge/-https://nirav-madhani.netlify.app/-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nrmadhani/"><img src="https://img.shields.io/badge/-Nirav Madhani-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:niravmadhani3@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<h3 align="center">What I am Working on currently</h3>
 
+###
 
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/77914957?v=4"  />
 
+###
 
-Older Profile : Nirav 1221
+<p align="left">I ll soon update this section</p>
 
+###
 
-[![Analytics](https://ga-beacon.appspot.com/UA-194674913-1/my-profile)](https://github.com/Nirav-Madhani)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Nirav-Madhani/Nirav-Madhani/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirav-Madhani&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nirav-Madhani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
