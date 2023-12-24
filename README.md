@@ -83,8 +83,7 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nirav-Madhani/Nirav-Madhani/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nirav-Madhani/Nirav-Madhani/output/snake.svg"/>
 
 ###
 
