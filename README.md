@@ -79,9 +79,8 @@
 ###
 
 <p align="left">
-- An Android App to Help People (on-going)
-- Multi-Task Learning
-- 
+<li>An Android App to Help People (on-going)</li>
+<li>Multi-Task Learning</li>
 </p>
 
 ###
