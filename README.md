@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="center">What I am Working on currently</h3>
+<h3 align="center">Presnet / Recent work</h3>
 
 ###
 
@@ -78,7 +78,11 @@
 
 ###
 
-<p align="left">I ll soon update this section</p>
+<p align="left">
+- An Android App to Help People (on-going)
+- Multi-Task Learning
+- 
+</p>
 
 ###
 
