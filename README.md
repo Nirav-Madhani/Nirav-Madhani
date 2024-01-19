@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="center">Presnet / Recent work</h3>
+<h3 align="center">Ongoing / Recent work</h3>
 
 ###
 
