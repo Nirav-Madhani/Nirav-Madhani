@@ -38,7 +38,25 @@ This robot, equipped with a 5DOF arm, gripper, and Mecanum wheels, demonstrates 
 - Monocular depth estimation using simple linear approximation.
 
 **YouTube Demonstration:**
+
+
 [![Robot Project Video](https://img.youtube.com/vi/rHJ69zlpGIQ/0.jpg)](https://www.youtube.com/watch?v=rHJ69zlpGIQ "Robot Project Video - Click to Watch!")
+
+### Multi-Task Learning using HydraNet
+
+[Source](https://gist.github.com/Nirav-Madhani/641f083f05b39dd83d4dd3664275ba3f)
+
+**Key Feature**
+- Used Pretrained Resnet Network, connected to end layers with use of dense layer for reshaping
+- Performed Image Segmentation and Depth Predition
+
+#### Sample Output
+
+![image](https://github.com/Nirav-Madhani/Nirav-Madhani/assets/77914957/dcef92e1-b258-4efa-be7f-268a1eca7419)
+![image](https://github.com/Nirav-Madhani/Nirav-Madhani/assets/77914957/9dd82ec4-9a2f-4dd6-ba16-c0e5b5678b6c)
+![image](https://github.com/Nirav-Madhani/Nirav-Madhani/assets/77914957/ec6955b6-0778-4801-82d3-b649289c1424)
+
+
 
 ## Contact Me
 For collaborations or questions, reach out to me through the following channels:
