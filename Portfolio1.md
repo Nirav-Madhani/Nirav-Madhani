@@ -61,7 +61,7 @@ This robot, equipped with a 5DOF arm, gripper, and Mecanum wheels, demonstrates 
 ## Contact Me
 For collaborations or questions, reach out to me through the following channels:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nrmadhani/)
+- **LinkedIn:** [nrmadhani](https://www.linkedin.com/in/nrmadhani/)
 - **GitHub:** [Nirav Madhani](https://github.com/Nirav-Madhani)
 
 Thank you for visiting my portfolio!
