@@ -1,20 +1,19 @@
-# Nirav Madhani's Portfolio in Robotics and Machine Learning
+# Nirav Madhani's Portfolio
 
 Welcome to my portfolio where I highlight my expertise in Robotics and Machine Learning, showcasing projects that demonstrate my skills in celestial navigation, autonomous movement, and inter-agent communication.
 
 ## Projects
 
-### Linkedin Non-Professional Post Remove (in-progress)
+### My Games:
+Below is URL to Github Page Describing list of games I published on play store. Note that I do not actively maintain my play store account so games were taken down. [URL](https://github.com/Nirav-Madhani/My-Games)
 
-**DEMO**
+### My YouTube video demos
+https://www.youtube.com/@niravmadhani8235/videos
 
-**Key Features**
-- Developed a LinkedIn post scraping addon, communicating with local server to increase database storage capacity by more than 50x.
-- Architected LLM based application for data labeling, improving labeling efficiency over 100x with 96% performance of human labelers. 
-- Training SLM using transfer learning to classify text as Professional / Non-Professional and deployed as ONNX increasing performance over 50x and reducing cost to 0.
-- Wireframed an addon to delete LinkedIn post based on SLM classification.
-
-
+### My Project Demos on Linkedin
+- [Mixed Reality Game Demo Using Unity](https://www.linkedin.com/posts/nrmadhani_augmentedreality-mixedreality-unity3d-activity-6809760578488307712-iPnS?utm_source=share) 
+- [Multiplayer Game Development Demo ](https://www.linkedin.com/posts/nrmadhani_gamedevelopment-unity3d-multiplayer-activity-6807949394516688896-iGLg?utm_source=share)
+- [Multiplayer Game Cloud Deployment Solution 20 Stars](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhanigithubstatstracker-activity-6924196946039422978-RViA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACiNXnwBNMwJltv_PYWgvROX7HJFp9cy_hA) 
 ### CeNSE-DL: Celestial Navigation in Outer Space Enhanced by Deep Learning
 This repository contains the code, paper, and dataset generator tool used for the term project for *Case Studies in ML* at **UT Austin**.
 
