@@ -4,17 +4,34 @@ Welcome to my portfolio where I highlight my expertise in Robotics and Machine L
 
 ## Projects
 
+### My Project Demos on Linkedin
+
+- [Controlling Agent Using LLM](https://www.linkedin.com/posts/nrmadhani_machinelearning-ai-gpt4o-activity-7240160226849538048-feMs)
+
+![image](https://github.com/user-attachments/assets/a655549c-6d82-44dd-8fbf-52c281c187e5)
+- [Multiplayer Game Development Demo ](https://www.linkedin.com/posts/nrmadhani_gamedevelopment-unity3d-multiplayer-activity-6807949394516688896-iGLg?utm_source=share)
+![image](https://github.com/user-attachments/assets/09220dd5-c2ea-4e82-ba6f-caa6f4d0b9a1)
+
+- [Multiplayer Game Cloud Deployment Solution 20 Stars](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhanigithubstatstracker-activity-6924196946039422978-RViA)
+![image](https://github.com/user-attachments/assets/ebf37dc0-867d-4cc2-96be-1f54fff2b6c1)
+
+- [Using Google Colab as GPU Runner for GitHub actions](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhaniselfhostedgpurunnernotebook-activity-7208438253996113920-m2Ii)
+
+- [Mixed Reality Game Demo Using Unity](https://www.linkedin.com/posts/nrmadhani_augmentedreality-mixedreality-unity3d-activity-6809760578488307712-iPnS?utm_source=share)
+  ![image](https://github.com/user-attachments/assets/c05a2216-b94b-41d1-bd06-49246753248e)
+
+  
 ### My Games:
-Below is URL to Github Page Describing list of games I published on play store. Note that I do not actively maintain my play store account so games were taken down. [URL](https://github.com/Nirav-Madhani/My-Games)
+Below is URL to Github Page Describing list of games I published on play store. Note that I do not actively maintain my play store account so games were taken down. [Click Here to Open](https://github.com/Nirav-Madhani/My-Games)
+![image](https://github.com/user-attachments/assets/e51e6c6b-d299-45f6-87d6-31b8c078defc)
+
 
 ### My YouTube video demos
 https://www.youtube.com/@niravmadhani8235/videos
+![image](https://github.com/user-attachments/assets/0177d673-7049-462f-a46b-f5a0486071be)
 
-### My Project Demos on Linkedin
-- [Mixed Reality Game Demo Using Unity](https://www.linkedin.com/posts/nrmadhani_augmentedreality-mixedreality-unity3d-activity-6809760578488307712-iPnS?utm_source=share) 
-- [Multiplayer Game Development Demo ](https://www.linkedin.com/posts/nrmadhani_gamedevelopment-unity3d-multiplayer-activity-6807949394516688896-iGLg?utm_source=share)
-- [Multiplayer Game Cloud Deployment Solution 20 Stars](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhanigithubstatstracker-activity-6924196946039422978-RViA)
-- [Using Google Colab as GPU Runner for GitHub actions](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhaniselfhostedgpurunnernotebook-activity-7208438253996113920-m2Ii)
+
+
 
 ### CeNSE-DL: Celestial Navigation in Outer Space Enhanced by Deep Learning
 This repository contains the code, paper, and dataset generator tool used for the term project for *Case Studies in ML* at **UT Austin**.
