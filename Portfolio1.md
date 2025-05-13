@@ -13,7 +13,9 @@ https://www.youtube.com/@niravmadhani8235/videos
 ### My Project Demos on Linkedin
 - [Mixed Reality Game Demo Using Unity](https://www.linkedin.com/posts/nrmadhani_augmentedreality-mixedreality-unity3d-activity-6809760578488307712-iPnS?utm_source=share) 
 - [Multiplayer Game Development Demo ](https://www.linkedin.com/posts/nrmadhani_gamedevelopment-unity3d-multiplayer-activity-6807949394516688896-iGLg?utm_source=share)
-- [Multiplayer Game Cloud Deployment Solution 20 Stars](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhanigithubstatstracker-activity-6924196946039422978-RViA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACiNXnwBNMwJltv_PYWgvROX7HJFp9cy_hA) 
+- [Multiplayer Game Cloud Deployment Solution 20 Stars](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhanigithubstatstracker-activity-6924196946039422978-RViA)
+- [Using Google Colab as GPU Runner for GitHub actions](https://www.linkedin.com/posts/nrmadhani_github-nirav-madhaniselfhostedgpurunnernotebook-activity-7208438253996113920-m2Ii)
+
 ### CeNSE-DL: Celestial Navigation in Outer Space Enhanced by Deep Learning
 This repository contains the code, paper, and dataset generator tool used for the term project for *Case Studies in ML* at **UT Austin**.
 
