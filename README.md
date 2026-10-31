@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- I work as application developer at bank software company, where I handle Cloud Infrastructure and oversee application architecture<br><br>When I am not working at company:-<br>1. I do ML research or make applications based on existing ML models<br>2. I program my Robot to do cool things.<br>3. I do interesting astronomy projects.<br>4. I develop cool games.</p>
+<p align="left">- SWEing at Google<br><br>When I am not working at company:-<br>1. I do ML research or make applications based on existing ML models<br>2. I program my Robot to do cool things.<br>3. I do interesting astronomy projects.<br>4. I develop cool games.</p>
 
 ###
 
